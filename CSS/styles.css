@@ -17,3 +17,8 @@ h1{
 h3{
     color: #66bfbf;
 }
+
+body{
+    font-family: 'Akshar', sans-serif;
+    font-size: 16px;
+}
