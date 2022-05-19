@@ -1,2 +1,2 @@
 # udemy
-A code made while I studied a course from udemy.
+A code made when I studied a course from udemy.
